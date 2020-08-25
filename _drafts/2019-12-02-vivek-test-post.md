@@ -8,4 +8,4 @@ images:
 ---
 test post
 
-![](/uploads/_20200811193624.jpg)
+![](images/uploads/_20200811193624.jpg)
