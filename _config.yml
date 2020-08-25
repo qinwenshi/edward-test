@@ -1,4 +1,5 @@
 # Site settings
+github: [metadata]
 title: Cleanily Professional House Cleaning Services
 email: edward@cleanily.com
 description: > # this means to ignore newlines until "baseurl:"
