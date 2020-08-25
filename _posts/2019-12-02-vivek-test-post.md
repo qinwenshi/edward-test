@@ -8,4 +8,4 @@ images:
 ---
 test post
 
-![](images/uploads/_20200811193624.jpg)
+![]({{ site.url }}/images/uploads/20200811193624.jpg)
